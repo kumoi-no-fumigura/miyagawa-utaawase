@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/miyagawa-utaawase",
  "yomi": "みやがわうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合（三十六番）",
+  "era": "文治年間（1185〜1190）",
+  "author": "西行（自撰）、判者 藤原定家",
+  "desc": "西行が自歌を三十六番に番えて伊勢外宮に奉納した自歌合で、定家が判を加えた。御裳濯河歌合と一対をなす。末尾に、西行が二巻の歌合を家隆に授けた話を古今著聞集から引く。"
+ },
  "editions": [
   {
    "pid": "1879502",
